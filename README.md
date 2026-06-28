@@ -34,6 +34,14 @@ npm run android # Run on Android emulator/device
 npm test
 ```
 
+### Create Build on Expo
+
+```bash
+eas build --platform android --profile production
+```
+
+View builds on [Expo](https://expo.dev/accounts/jusjusjus/projects/vatcalc-react-native/builds).
+
 ## Project Structure
 
 ```
